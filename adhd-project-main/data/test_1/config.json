@@ -1,0 +1,10 @@
+{
+    "username": "test",
+    "userid": 1,
+    "user_dir": "test_1",
+    "base_path": "data",
+    "session_path": "data\\test_1\\test_session",
+    "heatmap_path": "data\\test_1\\test_heatmap",
+    "model_path": "data\\test_1\\test_model\\test_gazemodel.pkl",
+    "created_at": "2026-05-24 21:14:53"
+}

@@ -1,0 +1,13 @@
+{
+    "1": {
+        "name": "test",
+        "password": "test",
+        "stats": {
+            "total_games": 0,
+            "high_score": 0,
+            "last_played": "N/A"
+        },
+        "has_calibration": false,
+        "created at": "2026-05-24 21:14:53"
+    }
+}
